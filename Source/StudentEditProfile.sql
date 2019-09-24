@@ -1,0 +1,1 @@
+UPDATE student SET StudentEmail='t1@sheridancollege.ca', StudentHome='4379821111', StudentCell='4379821111' WHERE StudentID='991234567';

@@ -1,0 +1,1 @@
+SELECT InstructorName,InstructorEmail, InstructorPhone AS Cell FROM instructor WHERE InstructorName='Brian Pham';

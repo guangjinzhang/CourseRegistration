@@ -1,0 +1,1 @@
+DELETE FROM courseoffering WHERE OfferingCode='10007';

@@ -1,0 +1,1 @@
+DELETE FROM studentoffering WHERE StudentID="991234567" AND OfferingCode='10002';

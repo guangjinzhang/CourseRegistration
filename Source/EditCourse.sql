@@ -1,0 +1,1 @@
+UPDATE course SET CourseCode='PROG31000',CourseName='JAVA 3',Prerequiste='PROG20000' WHERE CourseCode='PROG90000';

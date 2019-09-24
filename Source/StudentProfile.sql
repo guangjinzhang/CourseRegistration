@@ -1,0 +1,1 @@
+SELECT StudentName, StudentID, StudentEmail,StudentHome AS Home,StudentCell AS Cell FROM student WHERE StudentID='991234567';

@@ -1,0 +1,4 @@
+CREATE TABLE program
+(ProgramCode VARCHAR(10),
+ProgramName VARCHAR(50) PRIMARY KEY
+);
